@@ -1,0 +1,1 @@
+[{"tipo":0,"horario":"03:44:00"},{"tipo":0,"horario":"03:19:00"},{"tipo":1,"horario":"03:00:00"},{"tipo":1,"horario":"03:21:00"}]
